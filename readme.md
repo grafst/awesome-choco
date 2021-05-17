@@ -9,21 +9,28 @@
 - [Packaging](#packaging)
 	- [Helpers](#helpers)
 
+## Install
+1. Open PowerShell as administrator
+2. `Set-ExecutionPolicy RemoteSigned -Scope Process`
+
 ## Awesome
 - [Chocolatey GUI](https://chocolatey.org/packages/ChocolateyGUI)
 - [Chocolatey Powershell Module](https://github.com/chocolatey-community/Chocolatey)
 - [Package Requests](https://github.com/chocolatey-community/chocolatey-package-requests)
 - [Choco Protocol](https://chocolatey.org/packages/choco-protocol-support)
+- [Auto-Choco]()
 
 
 ## Instructions
-
+- [Install Chocolatey]()
 
 ## Packaging
 Creating your own Chocolatey Packages.
 - [Chocolatey Visual Studio Code Extension ](https://github.com/chocolatey-community/chocolatey-vscode)
 - [Package Deprecator](https://chocolatey.org/packages/choco-package-deprecater)
-
+- [Request a Package (Github)]
+- List of Requested Packages
+- [Choco Wish]()
 
 ### Helpers
 Helpers are chocolatey Packages, or better reusable components, that help you create packages
